@@ -1,0 +1,7 @@
+{
+  "name": "sample_project",
+  "entry_point": "main.py",
+  "py_versions": [2,3],
+  "version": "1.0.0",
+  "dependencies": []
+}
